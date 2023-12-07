@@ -4,16 +4,6 @@
   xmlns="http://www.w3.org/2000/svg"
 >
 
-<circle id="cir"></circle>
-   
-<script>
-let c = document.getElementById("cir");
-c.setAttribute("r", 48);
-c.setAttribute("cx", 50);
-c.setAttribute("cy", 50);
-c.setAttribute("stroke", "#f44");
-c.setAttribute("stroke-width", 3);
-c.setAttribute("fill", "#afa");
-</script>
+<circle cx="50" cy="50" r="49" fill="none" stroke="black"></circle>
 
 </svg>

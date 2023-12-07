@@ -1,0 +1,18 @@
+<svg
+  version="1.1"
+  width="200" height="100"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+<circle id="cir"></circle>
+   
+<script>
+let c = document.getElementById("cir");
+c.setAttribute("r", 48);
+c.setAttribute("cx", 50);
+c.setAttribute("cy", 50);
+c.setAttribute("fill", "none");
+c.setAttribute("stroke", "black");
+</script>
+
+</svg>

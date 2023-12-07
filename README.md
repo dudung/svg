@@ -1,2 +1,2 @@
 # svg
-a svg cookbook
+collection of svg images
